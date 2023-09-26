@@ -4,6 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+flask = "*"
+sqlalchemy = "*"
+sqlalchemy-serializer = "*"
+flask-sqlalchemy = "*"
+flask-restful = "*"
+flask-migrate = "*"
+flask-cors = "*"
+flask-login = "*"
+flask-bcrypt = "*"
+faker = "*"
 
 [dev-packages]
 
